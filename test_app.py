@@ -1,4 +1,4 @@
 from app import lwinfo
 
 def test_lwphone():
-	assert lwphone() == "7845678987"
+	assert lwphone() == "7845678988"
